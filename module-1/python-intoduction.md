@@ -45,41 +45,21 @@ Less code. More clarity. Same result. This is Python's superpower.
 
 ## Python in the AI Era
 
-Every major AI tool you use today — ChatGPT, Gemini, image generators, recommendation systems — was built with Python. Libraries like **TensorFlow**, **PyTorch**, and **scikit-learn** are the foundation of modern AI, and they are all Python.
+A huge share of **AI research, model training, and ML tooling** is done in Python. Ecosystems like **TensorFlow**, **PyTorch**, and **scikit-learn** are central to how models are built and experimented with—often alongside other languages in production systems.
 
-Learning Python today means you can:
-- Read and understand AI-generated code
+Learning Python helps you to:
+- Read and sanity-check AI-generated code
 - Call AI APIs from your own scripts
-- Build tools that use AI as a feature
-- Work in any data or AI-related field
+- Prototype features that use models or external AI services
+- Collaborate in data and ML-heavy teams
 
 ---
 
 ## Key Facts
 
-- **Created by:** Guido van Rossum
-- **First released:** 1991
-- **Current version:** Python 3.12+
-- **Named after:** Monty Python's Flying Circus (not the snake 🐍)
-- **Runs on:** Windows, Mac, Linux
-- **Free and open source:** always
-
----
-
-## Python's Philosophy
-
-Run this in your Python terminal to read Python's own design principles:
-
-```python
-import this
-```
-
-The most important lines:
-
-> *"Beautiful is better than ugly."*  
-> *"Simple is better than complex."*  
-> *"Readability counts."*
-
----
-
-*This is just the beginning. Let's write some code.*
+- **Created by:** Guido van Rossum  
+- **First released:** 1991  
+- **For this course:** use **Python 3.12 or newer** (install the latest stable build from [python.org](https://www.python.org/downloads/))  
+- **Named after:** *Monty Python’s Flying Circus* (not the snake)  
+- **Runs on:** Windows, macOS, and Linux  
+- **License:** free and open source  

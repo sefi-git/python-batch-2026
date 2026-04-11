@@ -12,9 +12,8 @@ This repository serves as my official digital lab manual. It contains all the lo
 * **Editor:** VS Code
 
 ## 📂 Progress Tracker
-* **Assignment 01** - 🏗️ In Progress
-* **Assignment 02** - ⏳ Pending
-* **Assignment 03** - ⏳ Pending
+* **Assignment 01** - ✅ Completed
+* **Assignment 02** - ✅ Completed
 
 ---
 
